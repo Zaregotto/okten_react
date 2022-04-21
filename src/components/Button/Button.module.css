@@ -1,12 +1,9 @@
-.button{
-    width: 200px;
-    height: 100px;
-    color: blue;
-    font-size: 50px;
+.button {
+    color: red;
     cursor: pointer;
 }
 
-.button:hover{
-    background-color: blue;
+.button:hover {
+    background-color: red;
     color: snow;
 }
